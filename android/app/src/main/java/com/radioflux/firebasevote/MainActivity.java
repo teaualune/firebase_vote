@@ -1,4 +1,4 @@
-package com.example.firebasevote;
+package com.radioflux.firebasevote;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
